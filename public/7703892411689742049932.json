@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "74082001250",
+    "project_id": "blood-pressure-health-app-sync",
+    "storage_bucket": "blood-pressure-health-app-sync.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74082001250:android:46372607c6d054e7ae4c3b",
+        "android_client_info": {
+          "package_name": "com.mufizaro.bldprsrhthapsnc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74082001250-cd9lvo88h1bcj0e7t4fh8enh0grfc6en.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1uY4Jj1_OQ5jICy2-oZoloFNskSFajII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74082001250-cd9lvo88h1bcj0e7t4fh8enh0grfc6en.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
